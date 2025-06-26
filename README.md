@@ -139,8 +139,8 @@ For academic and analytical purposes. Open to improvements and community contrib
 
 ## 🖼️ Screenshots
 
-![Caption](Images/1.png)
-![Caption](Images/2.png)
+![Caption](Images/1.jpg)
+![Caption](Images/2.jpg)
 
 ---
 
