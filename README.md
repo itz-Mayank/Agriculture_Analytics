@@ -139,7 +139,8 @@ For academic and analytical purposes. Open to improvements and community contrib
 
 ## 🖼️ Screenshots
 
-*(Add exported visuals here for better GitHub preview)*
+![Caption](Images/1.png)
+![Caption](Images/2.png)
 
 ---
 
